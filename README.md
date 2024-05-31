@@ -6,6 +6,7 @@ The goal of the project was to create a summary of several important statistics 
 ## Files
 - 'UFC_summary_analysis.xlsx' - Excel file with data analysis
 - 'UFC_summary_presentation.pptx' - PowerPoint presentation with the results of the analysis
+- 'UFC_summary_presentation.pdf' - presentation in .pdf format
 
 ## Technologies
 - MS Excel
